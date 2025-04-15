@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991</name>
+   <tag></tag>
+   <elementGuidId>de712bdf-dd56-4a0a-ac04-eeb527fc860e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div[3]/div[2]/div[3]/div[13]/a/div[2]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991 Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991 Rp284.000 Decathlon Indonesia Jakarta Selatan Decathlon Indonesia&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c66193b-617b-4b95-9048-5a5a3cc39333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-20kt3o</value>
+      <webElementGuid>4b2011cb-0bd4-4fa4-be38-8a52620151ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991</value>
+      <webElementGuid>2f6735e0-f1a1-458c-ad37-6f5b8499d662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[2]/div[@class=&quot;css-gvsi1m e1nlzfl0&quot;]/div[@class=&quot;css-1xpribl e1nlzfl3&quot;]/div[@class=&quot;css-1mvy9n0 e1nlzfl4&quot;]/div[@class=&quot;css-18p2ktc&quot;]/div[@class=&quot;css-13wayc1&quot;]/div[@class=&quot;css-1dq1dix&quot;]/div[@class=&quot;css-13l3l78 e1nlzfl9&quot;]/div[@class=&quot;css-bk6tzz e1nlzfl2&quot;]/a[@class=&quot;css-54k5sq&quot;]/div[@class=&quot;css-16vw0vn&quot;]/div[@class=&quot;css-11s9vse&quot;]/span[@class=&quot;css-20kt3o&quot;]</value>
+      <webElementGuid>eee18ab6-0ce2-410d-a334-91b11446f9dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div[3]/div[2]/div[3]/div[13]/a/div[2]/div[2]/span</value>
+      <webElementGuid>cfab50ff-c066-441c-b3a7-debd7c149efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah ke Wishlist'])[13]/following::span[4]</value>
+      <webElementGuid>0323f0b4-df66-414c-971a-453be506607b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KYKIWW OUTDOOR'])[1]/following::span[5]</value>
+      <webElementGuid>8b4778d8-109c-4074-8356-2bf502d6e741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp284.000'])[1]/preceding::span[1]</value>
+      <webElementGuid>4a4e5d6e-3c98-4747-b110-0e2a30415ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jakarta Selatan'])[1]/preceding::span[2]</value>
+      <webElementGuid>eda33524-6141-4d8f-925c-fbcfac7dec46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991']/parent::*</value>
+      <webElementGuid>5e544f43-6f11-474e-a99a-6a1ac5073267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/a/div[2]/div[2]/span</value>
+      <webElementGuid>867aa0ca-c1b6-4fa3-b7e7-b3d49ecd0978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991' or . = 'Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991')]</value>
+      <webElementGuid>3357a2e2-38e2-4a09-b3c8-c2f7c7490b0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengguna melakukan login dengan akun yang sudah terdaftarkan sebelumnya</description>
+   <name>TC_Login_Positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b9e26e6-bb73-41db-ab95-0812036566cc</testCaseGuid>
+</TestCaseEntity>

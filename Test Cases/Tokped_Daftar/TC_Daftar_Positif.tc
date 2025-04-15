@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengguna baru melakukan pendaftaran dengan sesuai format</description>
+   <name>TC_Daftar_Positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49778c34-a329-48fd-8b50-e9734041d2f8</testCaseGuid>
+</TestCaseEntity>

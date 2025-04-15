@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kursi Pantai</name>
+   <tag></tag>
+   <elementGuidId>e1585ee1-a4b1-4dc3-8e56-0029ce03622f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div[9]/div[2]/a[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;catNavigation\#9&quot;] [data-testid=&quot;categoryNavigation\#7&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ad405f87-0e76-4ba5-b357-896dc9af8fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>categoryNavigation#7</value>
+      <webElementGuid>e8201684-aefa-4b89-930c-7bdf7f6997fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/p/rumah-tangga/taman/kursi-pantai</value>
+      <webElementGuid>90a8fedc-29fc-4de9-b1cf-b6305d6b13ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-izd3et</value>
+      <webElementGuid>f5a61898-8a02-416f-b543-2c87fa6d3275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kursi Pantai</value>
+      <webElementGuid>88d90c00-09a2-41c7-9f3e-cfbad99367a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-12jp264 e90swyx2&quot;]/div[@class=&quot;css-c4s9dq e1429ojz0&quot;]/div[@class=&quot;css-1551isn e1429ojz1&quot;]/div[@class=&quot;css-d0atm6 e1429ojz2&quot;]/div[@class=&quot;css-11womkr-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-dj3o3l&quot;]/div[@class=&quot;css-1iefgdn e1429ojz5&quot;]/div[@class=&quot;css-113hzvq&quot;]/div[@class=&quot;css-11p7ov6&quot;]/div[@class=&quot;css-s0g7na&quot;]/div[@class=&quot;css-1owj1eu&quot;]/div[@class=&quot;css-swflfw&quot;]/a[@class=&quot;css-izd3et&quot;]</value>
+      <webElementGuid>274a1dfb-feb3-4a3a-ac66-02a4d8acd66c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div[9]/div[2]/a[7]</value>
+      <webElementGuid>2a66e5c5-efdc-4bbb-ba08-6144a8d327b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kursi Pantai')]</value>
+      <webElementGuid>fbab1e80-61fa-4fbf-b57e-aa62c6ce3239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Irigasi'])[1]/following::a[1]</value>
+      <webElementGuid>28aef9cb-b629-474c-85ac-11ae0b8171af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hiasan Taman'])[1]/following::a[2]</value>
+      <webElementGuid>a51123c7-abf8-43cf-a3e9-c848e39ec1a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media Tanam'])[1]/preceding::a[1]</value>
+      <webElementGuid>e7b3df7d-a938-44ed-b063-672d9eb3fc09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pemotong Rumput'])[1]/preceding::a[2]</value>
+      <webElementGuid>562a3d2f-3bce-45db-9f2c-9b9fb63acde9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kursi Pantai']/parent::*</value>
+      <webElementGuid>65fcc95a-a748-476b-88de-cfc0bda84b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/p/rumah-tangga/taman/kursi-pantai')]</value>
+      <webElementGuid>5b1af49b-9200-45ae-b6d0-ae1f1b2f03d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/a[7]</value>
+      <webElementGuid>8693d598-36de-4842-b33f-61370de4f27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/p/rumah-tangga/taman/kursi-pantai' and (text() = 'Kursi Pantai' or . = 'Kursi Pantai')]</value>
+      <webElementGuid>0f38dccc-9a95-4a1f-a175-ab3bee93fc8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Metode Lain_css-1n83ydv-unf-overlay e90j6ys0</name>
+   <tag></tag>
+   <elementGuidId>4d9e4102-af91-4e15-9304-a683f4998520</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1n83ydv-unf-overlay.e90j6ys0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[9]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;unf-overlay&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a93ada1f-9772-42fa-b828-0cda7e4f46de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>unf-overlay</value>
+      <webElementGuid>15a06b59-91e9-4462-bc67-6944efc3113c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Overlay</value>
+      <webElementGuid>e81bb3c2-5c00-4d1a-8a32-ad9f2cb4cffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1n83ydv-unf-overlay e90j6ys0</value>
+      <webElementGuid>b037ead4-1444-423b-89de-7063fff82696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;css-1g5w2rw&quot;]/div[9]/div[@class=&quot;css-1n83ydv-unf-overlay e90j6ys0&quot;]</value>
+      <webElementGuid>4d0af67f-6a52-494e-a9c2-b9bf6bc3429f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div</value>
+      <webElementGuid>f54936d9-29e0-4a9f-bb29-cfd85477af5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

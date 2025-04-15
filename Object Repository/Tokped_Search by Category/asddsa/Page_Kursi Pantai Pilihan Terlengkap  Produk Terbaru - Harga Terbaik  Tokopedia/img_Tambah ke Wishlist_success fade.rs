@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tambah ke Wishlist_success fade</name>
+   <tag></tag>
+   <elementGuidId>15cabf8f-726c-472f-b86e-009f67438355</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div[3]/div[2]/div[3]/div[13]/a/div[2]/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991 Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991 Rp284.000 Decathlon Indonesia Jakarta Selatan Decathlon Indonesia&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a0c76bdf-94a9-45dc-af72-d02fc672394a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>crossorigin</name>
+      <type>Main</type>
+      <value>anonymous</value>
+      <webElementGuid>65d597cb-907c-49a9-9485-c35bcdcb4be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>success fade</value>
+      <webElementGuid>83c9aee6-af2b-48ca-8f9a-aee04716ecda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2024/5/14/dc992670-9ad2-4d59-9e86-a2af86376cb5.jpg.webp?ect=4g</value>
+      <webElementGuid>c1fcfe67-e5b0-428b-9651-485f513e01e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991</value>
+      <webElementGuid>1dd0dc23-91ce-44a8-a407-fb09430de1bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[2]/div[@class=&quot;css-gvsi1m e1nlzfl0&quot;]/div[@class=&quot;css-1xpribl e1nlzfl3&quot;]/div[@class=&quot;css-1mvy9n0 e1nlzfl4&quot;]/div[@class=&quot;css-18p2ktc&quot;]/div[@class=&quot;css-13wayc1&quot;]/div[@class=&quot;css-1dq1dix&quot;]/div[@class=&quot;css-13l3l78 e1nlzfl9&quot;]/div[@class=&quot;css-bk6tzz e1nlzfl2&quot;]/a[@class=&quot;css-54k5sq&quot;]/div[@class=&quot;css-16vw0vn&quot;]/div[@class=&quot;css-79elbk&quot;]/div[@class=&quot;css-377m5r&quot;]/div[@class=&quot;css-b4oy9w&quot;]/img[@class=&quot;success fade&quot;]</value>
+      <webElementGuid>e99da795-a9b8-47d3-86c5-a33bebf738c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div/div[2]/div[3]/div[2]/div[3]/div[13]/a/div[2]/div/div/div/img</value>
+      <webElementGuid>5271860d-95e0-4b12-aaf7-b4027759660a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991']</value>
+      <webElementGuid>d286c899-dee7-484f-9040-6590e4d0570c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/a/div[2]/div/div/div/img</value>
+      <webElementGuid>ad1bd48b-a742-4257-8923-894ffd329d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://images.tokopedia.net/img/cache/200-square/hDjmkQ/2024/5/14/dc992670-9ad2-4d59-9e86-a2af86376cb5.jpg.webp?ect=4g' and @alt = 'Decathlon Quechua Kursi Lipat Camping Armchair Outdoor - Hijau - 8852991']</value>
+      <webElementGuid>7443fa0b-4b28-4f20-8bab-6acbc0a74ddb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

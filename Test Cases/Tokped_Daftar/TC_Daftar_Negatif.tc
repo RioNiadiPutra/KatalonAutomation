@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengguna baru ingin melakukan pendaftaran dengan pengisian tidak sesuai format</description>
+   <name>TC_Daftar_Negatif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df3031c0-b0ca-437d-8be1-45a6592007bc</testCaseGuid>
+</TestCaseEntity>

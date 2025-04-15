@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Format email salah</name>
+   <tag></tag>
+   <elementGuidId>f9e1e19a-dbbd-411f-9973-80ed6ff60352</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__skipper']/div/div/div/div[2]/div[4]/form/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-y0w6gg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Format email salah$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dbb097b7-d267-49b3-af9d-d45036fa544d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-y0w6gg</value>
+      <webElementGuid>4ccfd8b7-9b6b-43b2-9879-75e49bbc93b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Format email salah</value>
+      <webElementGuid>2784dbcf-c9fa-4ce0-a473-2594477574a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__skipper&quot;)/div[@class=&quot;css-b1khel&quot;]/div[@class=&quot;css-kqvkc7&quot;]/div[@class=&quot;css-1akx9dq&quot;]/div[@class=&quot;css-rrvbed&quot;]/div[4]/form[1]/div[@class=&quot;css-1xchg94&quot;]/div[@class=&quot;css-y0w6gg&quot;]</value>
+      <webElementGuid>e1c4f91c-ffb1-4b5e-b45a-bd803196a825</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__skipper']/div/div/div/div[2]/div[4]/form/div/div[2]</value>
+      <webElementGuid>e699fa7f-1f5d-4212-9470-d7ed90849c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor HP atau E-mail'])[2]/following::div[1]</value>
+      <webElementGuid>ef659053-38cd-49a1-9e42-e496c9ac74b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor HP atau E-mail'])[1]/following::div[3]</value>
+      <webElementGuid>d323e8f7-a227-476b-819b-72a1d0c32faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::div[1]</value>
+      <webElementGuid>4d34c841-830f-4935-b422-ee01ab367ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dengan mendaftar, saya menyetujui'])[1]/preceding::div[1]</value>
+      <webElementGuid>312a8798-dc4e-4827-9c1d-62ad7ef873e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]</value>
+      <webElementGuid>1e75e676-04e7-454a-885b-9ae1759d4be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Format email salah' or . = 'Format email salah')]</value>
+      <webElementGuid>d2b3a611-eb32-4797-bb8b-883756c84ddf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
