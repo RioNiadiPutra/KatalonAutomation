@@ -1,11 +1,11 @@
-# Hey, I'm Alex 👋
+# Hello, Welcome to my Tokopedia Automation Testing Portofolio
 
-I'm a full-stack developer who loves building clean and scalable web apps. I believe in writing elegant code and drinking too much coffee ☕.
+In this automation testing, I used Katalon Studio and created several test scripts for modules such as account registration, login, product search, and product details. Some of the scripts include both negative and positive testing. I have also attached the test cases I have created, you can check it out:
+[Test Case](https://google.com](https://docs.google.com/spreadsheets/d/1Q_KGEa4ortB39CXS4y-b3ZQGfRh2qdUp/edit?usp=drive_link&ouid=105477547081568222128&rtpof=true&sd=true)
 
-- 🔭 Currently working on an open-source habit tracker
-- 🌱 Learning Rust and diving deeper into system design
-- 👯 Looking to collaborate on cool web projects and hackathons
-- 💬 Ask me about JavaScript, React, Node.js, or freelance life
-- 📫 Reach me: [alex.dev](https://alex.dev) or alex@example.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I once built a smart mirror that shows memes instead of weather
+I also did a demo of my automation testing on YouTube, and here is the link:
+[Automation Testing Youtube](https://youtu.be/dV--q-Ur7SY)
+
+I really appreciate any feedback or suggestions regarding my automation testing, whether it's related to the scripts or the test cases.
+
+#### Thank You !
